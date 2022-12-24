@@ -6,5 +6,8 @@ Made as a simple replacement for an overlay that shows usage and temeprature of 
 
 background color can be changed / background can be removed entirely with the config file, you can also have an image but its scuffed.  the source is available for download here, but if u just want the program, get it from releases ->
 
+# NOT TESTED WITH AMD GPU OR INTEL CPU
+If there is problems, i wont fix, this project was made as a simple thing for myself, fix using the source or use professional overlay as mentioned above
+
 ![Screenshot](withbg.png)
 ![Screenshot](withoutbg.png)
